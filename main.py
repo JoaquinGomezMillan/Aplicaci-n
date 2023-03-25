@@ -7,3 +7,5 @@ class FirstKivy(App):
     
 
 FirstKivy().run()
+
+Hola
